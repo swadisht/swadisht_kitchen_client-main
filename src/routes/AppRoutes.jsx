@@ -131,8 +131,8 @@ import OrdersPage from "../pages/ordermanage/OrderPage";
 import ARModelRequest from "../pages/ArmodelRequest";
 
 /* ---------- BILLING ---------- */
-import BillingSetup from "../pages/billing/BillingSetup";
-import BillingEdit from "../pages/billing/BillingEdit";
+import BillingSetup from "../pages/Billing/BillingSetup";
+import BillingEdit from "../pages/Billing/BillingEdit";
 
 /* ---------- OTHERS ---------- */
 import CategoriesPage from "../pages/Menu/CategoriesPage";
